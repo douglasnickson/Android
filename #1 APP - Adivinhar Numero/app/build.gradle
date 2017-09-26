@@ -4,8 +4,8 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.1"
     defaultConfig {
-        applicationId "com.example.douglasnickson.primeiroapp"
-        minSdkVersion 16
+        applicationId "com.douglasnickson.app1_adivinha"
+        minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"

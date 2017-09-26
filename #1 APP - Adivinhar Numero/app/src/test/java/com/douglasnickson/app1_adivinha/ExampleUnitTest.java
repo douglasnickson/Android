@@ -1,4 +1,4 @@
-package com.example.douglasnickson.primeiroapp;
+package com.douglasnickson.app1_adivinha;
 
 import org.junit.Test;
 
