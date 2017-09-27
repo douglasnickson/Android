@@ -9,11 +9,11 @@
     <Button
         android:id="@+id/botao_jogarid"
         android:layout_width="173dp"
-        android:layout_height="48dp"
+        android:layout_height="0dp"
         android:text="@string/botao_jogar"
-        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteX="119dp"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteY="114dp" />
+        tools:layout_editor_absoluteY="118dp" />
 
     <TextView
         android:id="@+id/textView"
