@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">#1 APP - Adivinhar Numero</string>
+    <string name="botao_jogar">Jogar</string>
+    <string name="texto_numero">Nenhum Numero</string>
+</resources>
