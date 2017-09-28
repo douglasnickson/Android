@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD:#1 APP - Adivinhar Numero/.idea/modules.xml
+      <module fileurl="file://$PROJECT_DIR$/#1 APP - Adivinhar Numero.iml" filepath="$PROJECT_DIR$/#1 APP - Adivinhar Numero.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/#2APP-FrasesdoDia.iml" filepath="$PROJECT_DIR$/#2APP-FrasesdoDia.iml" />
+>>>>>>> 71f44ad0753254bfcf9037317ce1bcbc10451a60:#2APP-FrasesdoDia/.idea/modules.xml
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
