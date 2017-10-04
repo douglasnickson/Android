@@ -64,6 +64,7 @@ public class CadastrarActivity extends AppCompatActivity {
                     usuario.salvarDados();
 
                     autenticacao.signOut();
+                    finish();
                 }else{
                     String erroExcecao = "";
 
