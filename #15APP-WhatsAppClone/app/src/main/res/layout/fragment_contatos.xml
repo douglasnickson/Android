@@ -2,7 +2,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/darker_gray"
     tools:context="com.douglasnickson.a15app_whatsappclone.fragment.ContatosFragment">
 
 
@@ -10,5 +9,8 @@
         android:id="@+id/lv_contatos"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_gravity="top|center_horizontal" />
+        android:layout_gravity="top|center_horizontal"
+        android:divider="#CCCCCC"
+        android:dividerHeight="1dp"
+        />
 </FrameLayout>
