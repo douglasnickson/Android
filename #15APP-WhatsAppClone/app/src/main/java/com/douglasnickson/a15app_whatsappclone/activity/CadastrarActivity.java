@@ -1,5 +1,6 @@
 package com.douglasnickson.a15app_whatsappclone.activity;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,6 +11,8 @@ import android.widget.Toast;
 
 import com.douglasnickson.a15app_whatsappclone.R;
 import com.douglasnickson.a15app_whatsappclone.config.ConfiguracaoFirebase;
+import com.douglasnickson.a15app_whatsappclone.helper.Base64Custom;
+import com.douglasnickson.a15app_whatsappclone.helper.Preferencias;
 import com.douglasnickson.a15app_whatsappclone.model.Usuario;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -59,12 +62,19 @@ public class CadastrarActivity extends AppCompatActivity {
             public void onComplete(@NonNull Task<AuthResult> task) {
                 if(task.isSuccessful()){
                     Toast.makeText(CadastrarActivity.this, "Cadastro Realizado com Sucesso", Toast.LENGTH_LONG).show();
-                    FirebaseUser userFirebase = task.getResult().getUser();
-                    usuario.setId(userFirebase.getUid());
+                    //FirebaseUser userFirebase = task.getResult().getUser();
+                    String identificadorUsuario = Base64Custom.codificarBase64(usuario.getEmail());
+                    //usuario.setId(userFirebase.getUid());
+                    usuario.setId(identificadorUsuario);
                     usuario.salvarDados();
 
-                    autenticacao.signOut();
-                    finish();
+                    Preferencias preferencias = new Preferencias(CadastrarActivity.this);
+                    preferencias.salvarDados(identificadorUsuario);
+
+                    abrirLoginUsuario();
+
+                    //autenticacao.signOut();
+                    //finish();
                 }else{
                     String erroExcecao = "";
 
@@ -84,5 +94,11 @@ public class CadastrarActivity extends AppCompatActivity {
                 }
             }
         });
+    }
+
+    public void abrirLoginUsuario(){
+        Intent intent = new Intent(CadastrarActivity.this, MainLoginActivity.class);
+        startActivity(intent);
+        finish();
     }
 }
