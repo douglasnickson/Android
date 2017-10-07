@@ -1,15 +1,18 @@
 package com.douglasnickson.a15app_whatsappclone.fragment;
 
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import com.douglasnickson.a15app_whatsappclone.R;
+import com.douglasnickson.a15app_whatsappclone.activity.ConversaActivity;
 import com.douglasnickson.a15app_whatsappclone.adapter.ContatoAdapter;
 import com.douglasnickson.a15app_whatsappclone.config.ConfiguracaoFirebase;
 import com.douglasnickson.a15app_whatsappclone.helper.Preferencias;
@@ -95,6 +98,22 @@ public class ContatosFragment extends Fragment {
 
             }
         };
+
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Intent intent = new Intent(getActivity(), ConversaActivity.class);
+
+                //recuperar dados a serem passados
+                Contato contato = contatos.get(i);
+
+                //Enviando dados para conversa activity
+                intent.putExtra("nome", contato.getNome());
+                intent.putExtra("email", contato.getEmail());
+
+                startActivity(intent);
+            }
+        });
 
         return view;
     }

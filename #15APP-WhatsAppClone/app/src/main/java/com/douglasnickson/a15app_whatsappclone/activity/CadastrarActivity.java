@@ -22,6 +22,7 @@ import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
 import com.google.firebase.auth.FirebaseAuthUserCollisionException;
 import com.google.firebase.auth.FirebaseAuthWeakPasswordException;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
 
 public class CadastrarActivity extends AppCompatActivity {
 
@@ -69,7 +70,7 @@ public class CadastrarActivity extends AppCompatActivity {
                     usuario.salvarDados();
 
                     Preferencias preferencias = new Preferencias(CadastrarActivity.this);
-                    preferencias.salvarDados(identificadorUsuario);
+                    preferencias.salvarDados(identificadorUsuario, usuario.getNome());
 
                     abrirLoginUsuario();
 
