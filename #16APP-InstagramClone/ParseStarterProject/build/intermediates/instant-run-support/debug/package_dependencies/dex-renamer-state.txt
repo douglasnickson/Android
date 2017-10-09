@@ -1,0 +1,25 @@
+#Sun Oct 08 23:08:36 BRT 2017
+renamed.7=classes.dex
+renamed.6=classes7.dex
+renamed.5=classes4.dex
+renamed.4=classes3.dex
+renamed.3=classes2.dex
+renamed.2=classes6.dex
+renamed.1=classes5.dex
+renamed.0=classes8.dex
+base.7=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\bolts-tasks-1.4.0_506b41a1daf613fb9f282bda8482f54ef0dc62c7
+base.6=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\parse-android-1.13.0_0c9b62ec62e210ff65bcc2527db472afeeeec906
+base.5=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e145a53df3bd322594c74e896bb45c2740a2ef68
+base.4=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9733344ab83f5475a3934072bd26441c96d9e882
+base.3=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_04d00fe01809b835bc7a959e857e701a059db807
+base.2=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_3438a2f6866e69247f10a6f38c13d5e5f95ec53d
+base.1=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_968c242462bb6006939558239fa64dc8a8f72083
+base.0=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_48d42d67d00135a75e70306d34b11dd7ec30ce10
+file.7=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\bolts-tasks-1.4.0_506b41a1daf613fb9f282bda8482f54ef0dc62c7\\classes.dex
+file.6=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\parse-android-1.13.0_0c9b62ec62e210ff65bcc2527db472afeeeec906\\classes.dex
+file.5=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e145a53df3bd322594c74e896bb45c2740a2ef68\\classes.dex
+file.4=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9733344ab83f5475a3934072bd26441c96d9e882\\classes.dex
+file.3=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_04d00fe01809b835bc7a959e857e701a059db807\\classes.dex
+file.2=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_3438a2f6866e69247f10a6f38c13d5e5f95ec53d\\classes.dex
+file.1=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_968c242462bb6006939558239fa64dc8a8f72083\\classes.dex
+file.0=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_48d42d67d00135a75e70306d34b11dd7ec30ce10\\classes.dex

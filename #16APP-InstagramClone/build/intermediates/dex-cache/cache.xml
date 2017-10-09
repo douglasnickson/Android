@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_968c242462bb6006939558239fa64dc8a8f72083\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DouglasNickson\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_0c9b62ec62e210ff65bcc2527db472afeeeec906\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c48190c1e1625109539aa95a12ba757cf541070">
+        <dex dex="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fe1508ab28f2f518e0709ccf4bb49d2cc0b17d64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DouglasNickson\.android\build-cache\adc879d33a3ade61f12bc314fb30092408daae9c\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_3438a2f6866e69247f10a6f38c13d5e5f95ec53d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DouglasNickson\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_506b41a1daf613fb9f282bda8482f54ef0dc62c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DouglasNickson\.android\build-cache\61c07ea636e2fc55c4fc32b21c75debba06b00fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04d00fe01809b835bc7a959e857e701a059db807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DouglasNickson\.android\build-cache\b024feac63cdf9586855a48ce37d8a3cb0de3f03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e145a53df3bd322594c74e896bb45c2740a2ef68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DouglasNickson\.android\build-cache\adc879d33a3ade61f12bc314fb30092408daae9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9733344ab83f5475a3934072bd26441c96d9e882\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7216f0ff68edc378b2ea1406360fb41e1d3eca32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_48d42d67d00135a75e70306d34b11dd7ec30ce10\classes.dex" />
+    </item>
+
+</items>

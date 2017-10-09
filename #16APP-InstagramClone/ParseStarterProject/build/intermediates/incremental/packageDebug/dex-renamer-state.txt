@@ -1,0 +1,7 @@
+#Sun Oct 08 23:23:07 BRT 2017
+base.0=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7216f0ff68edc378b2ea1406360fb41e1d3eca32
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fe1508ab28f2f518e0709ccf4bb49d2cc0b17d64\\classes.dex
+base.1=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fe1508ab28f2f518e0709ccf4bb49d2cc0b17d64
+file.0=C\:\\Android\\Aplicativos-Android\\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7216f0ff68edc378b2ea1406360fb41e1d3eca32\\classes.dex
