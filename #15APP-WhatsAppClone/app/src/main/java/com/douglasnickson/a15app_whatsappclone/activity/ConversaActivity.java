@@ -157,9 +157,6 @@ public class ConversaActivity extends AppCompatActivity {
                         }
                     }
 
-
-
-
                     editMensagem.setText("");
                 }
 

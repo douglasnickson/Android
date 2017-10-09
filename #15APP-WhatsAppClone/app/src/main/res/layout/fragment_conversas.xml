@@ -6,12 +6,13 @@
 
     <!-- TODO: Update blank fragment layout -->
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="Conversas"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textColor="@android:color/background_dark" />
+    <ListView
+        android:id="@+id/lv_conversas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top|center_horizontal"
+        android:divider="#CCCCCC"
+        android:dividerHeight="1dp"
+        />
+
 </FrameLayout>
