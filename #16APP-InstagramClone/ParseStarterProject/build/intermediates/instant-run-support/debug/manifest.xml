@@ -18,6 +18,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:name="com.parse.starter.StarterApplication"
@@ -43,6 +44,15 @@
         </activity>
         <activity android:name="com.parse.starter.activity.MainActivity" />
         <activity android:name="com.parse.starter.activity.CadastroActivity" />
+        <activity
+            android:name="com.parse.starter.activity.FeedUsuariosActivity"
+            android:label="@string/title_activity_feed_usuarios"
+            android:parentActivityName="com.parse.starter.activity.MainActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.parse.starter.activity.MainActivity" />
+        </activity>
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"

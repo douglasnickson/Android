@@ -66,11 +66,13 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
 
+    //Vai para a tela de cadastro
     public void abrirCadastroUsuario(){
         Intent intent = new Intent(LoginActivity.this, CadastroActivity.class);
         startActivity( intent );
     }
 
+    //Testa se o usuario esta logado
     public void verificarUsuarioLogado(){
         if (ParseUser.getCurrentUser() != null){
             //Envia o usario para a tela principal
@@ -78,6 +80,7 @@ public class LoginActivity extends AppCompatActivity {
         }
     }
 
+    //Abre a tela inicial
     public void abrirTelaPrincipal(){
         Intent intent = new Intent(LoginActivity.this, MainActivity.class);
         startActivity( intent );

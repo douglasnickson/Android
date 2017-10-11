@@ -1,63 +1,47 @@
 [
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\anim\\abc_slide_out_top.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\anim\\snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
@@ -68,15 +52,63 @@
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\anim\\fab_in.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\anim\\snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\anim\\fab_out.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\anim\\abc_slide_in_top.xml"
     }
 ]

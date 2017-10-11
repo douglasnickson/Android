@@ -1,51 +1,27 @@
 [
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\layout\\layout_tab_icon.xml"
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\select_dialog_item_material.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
@@ -53,7 +29,7 @@
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
@@ -68,32 +44,16 @@
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\c90d09f97d659cb426cb1b29831b47d7f75967ad\\output\\res\\layout\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
@@ -105,7 +65,7 @@
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
@@ -116,56 +76,28 @@
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\notification_template_lines.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\c90d09f97d659cb426cb1b29831b47d7f75967ad\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cadastro.xml",
-        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\activity_cadastro.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
@@ -176,28 +108,24 @@
         "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\toolbar.xml"
     },
     {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\notification_media_action.xml"
-    },
-    {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_search_view.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\layout\\layout_snackbar_include.xml"
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\c90d09f97d659cb426cb1b29831b47d7f75967ad\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
@@ -205,71 +133,31 @@
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_screen_simple.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\c90d09f97d659cb426cb1b29831b47d7f75967ad\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
@@ -277,7 +165,7 @@
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -285,15 +173,19 @@
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\c90d09f97d659cb426cb1b29831b47d7f75967ad\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\c90d09f97d659cb426cb1b29831b47d7f75967ad\\output\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -308,8 +200,256 @@
         "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\c90d09f97d659cb426cb1b29831b47d7f75967ad\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\lista_postagem.xml",
+        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\lista_postagem.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\content_feed_usuarios.xml",
+        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\content_feed_usuarios.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cadastro.xml",
+        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\activity_cadastro.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\3c61498cfc843440434ffd72d1e72fbbfe223bb0\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_usuarios.xml",
+        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\fragment_usuarios.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\c90d09f97d659cb426cb1b29831b47d7f75967ad\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\tab_view.xml",
+        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\tab_view.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_usuarios.xml",
+        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\activity_feed_usuarios.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\lista_usuarios.xml",
+        "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\lista_usuarios.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\e44f199ad5df92ddc765621b22603fda614e6034\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\c90d09f97d659cb426cb1b29831b47d7f75967ad\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "source": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
@@ -318,9 +458,5 @@
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cadastro.xml",
         "source": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\layout\\activity_cadastro.xml"
-    },
-    {
-        "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\layout\\abc_action_menu_layout.xml"
     }
 ]

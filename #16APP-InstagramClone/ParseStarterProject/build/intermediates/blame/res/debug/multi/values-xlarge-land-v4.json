@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "outputFile": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "outputFile": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\61c07ea636e2fc55c4fc32b21c75debba06b00fb\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
