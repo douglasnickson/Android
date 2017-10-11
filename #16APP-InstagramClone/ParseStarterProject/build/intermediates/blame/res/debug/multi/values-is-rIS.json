@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-is-rIS\\values-is-rIS.xml",
+=======
+        "outputFile": "/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 150
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 247
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 359
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 444
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 545
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +130,11 @@
                     "endOffset": 659
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +153,11 @@
                     "endOffset": 769
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +176,11 @@
                     "endOffset": 877
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -163,7 +199,11 @@
                     "endOffset": 975
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -182,7 +222,11 @@
                     "endOffset": 1084
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -201,7 +245,11 @@
                     "endOffset": 1183
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -220,7 +268,11 @@
                     "endOffset": 1286
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -239,6 +291,7 @@
                     "endOffset": 1404
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 16,
@@ -492,6 +545,9 @@
                 },
                 "from": {
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-is-rIS\\values-is-rIS.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-is-rIS/values-is-rIS.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,

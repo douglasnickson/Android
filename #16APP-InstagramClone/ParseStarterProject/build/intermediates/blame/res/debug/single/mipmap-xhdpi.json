@@ -1,10 +1,15 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+=======
+        "merged": "/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
     }
 ]

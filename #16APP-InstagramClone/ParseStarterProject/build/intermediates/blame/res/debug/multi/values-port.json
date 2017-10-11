@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+=======
+        "outputFile": "/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
         "map": [
             {
                 "to": {
@@ -11,6 +15,7 @@
                     "endOffset": 106
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 4,
@@ -36,6 +41,9 @@
                 },
                 "from": {
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-port\\values-port.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-port/values-port.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

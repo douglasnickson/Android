@@ -1,10 +1,15 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
         "merged": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\menu\\menu_main.xml"
+=======
+        "merged": "/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/src/main/res/menu/menu_main.xml"
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
     }
 ]

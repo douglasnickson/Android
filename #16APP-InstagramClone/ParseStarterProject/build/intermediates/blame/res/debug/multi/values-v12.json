@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+=======
+        "outputFile": "/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
         "map": [
             {
                 "to": {
@@ -12,7 +16,11 @@
                     "endOffset": 276
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-v12\\values-v12.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-v12/values-v12.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -33,7 +41,11 @@
                     "endOffset": 478
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-v12\\values-v12.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-v12/values-v12.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -53,7 +65,11 @@
                     "endOffset": 597
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-v12\\values-v12.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-v12/values-v12.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -72,6 +88,7 @@
                     "endOffset": 692
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-v12\\values-v12.xml",
                     "position": {
                         "startLine": 11,
@@ -158,6 +175,9 @@
                 },
                 "from": {
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-v12\\values-v12.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-v12/values-v12.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,

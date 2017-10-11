@@ -12,6 +12,7 @@
     <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="android:windowBackground">@android:color/white</item>
+<<<<<<< HEAD
         <item name="android:textColorSecondary">@android:color/black</item>
     </style>
 
@@ -19,4 +20,8 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+=======
+    </style>
+
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
 </resources>

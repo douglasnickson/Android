@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+        "outputFile": "/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 119
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-sw600dp/values-sw600dp.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 189
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-sw600dp/values-sw600dp.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 259
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-sw600dp/values-sw600dp.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 338
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-sw600dp/values-sw600dp.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 414
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-sw600dp/values-sw600dp.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +130,11 @@
                     "endOffset": 473
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-sw600dp/values-sw600dp.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -125,7 +153,11 @@
                     "endOffset": 544
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-sw600dp/values-sw600dp.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -144,6 +176,7 @@
                     "endOffset": 612
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\DouglasNickson\\.android\\build-cache\\a12ea01c9fc377b31732e4d91d67ca3458678102\\output\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 15,
@@ -494,6 +527,9 @@
                 },
                 "from": {
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-sw600dp/values-sw600dp.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -512,7 +548,11 @@
                     "endOffset": 667
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\douglas-nickson\\.android\\build-cache\\788986a95bcd97282ca99714e166d7544bd07f3f\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "/home/douglas-nickson/.android/build-cache/788986a95bcd97282ca99714e166d7544bd07f3f/output/res/values-sw600dp/values-sw600dp.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,

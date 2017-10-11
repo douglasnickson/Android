@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+=======
+        "outputFile": "/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
         "map": [
             {
                 "to": {
@@ -11,6 +15,7 @@
                     "endOffset": 108
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Android\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 12,
@@ -36,6 +41,9 @@
                 },
                 "from": {
                     "file": "C:\\home\\douglas-nickson\\AndroidStudioProjects\\Aplicativos-Android\\#16APP-InstagramClone\\ParseStarterProject\\src\\main\\res\\values-w820dp\\dimens.xml",
+=======
+                    "file": "/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/src/main/res/values-w820dp/dimens.xml",
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,

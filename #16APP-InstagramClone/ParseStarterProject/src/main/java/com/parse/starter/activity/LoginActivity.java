@@ -27,6 +27,11 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
+<<<<<<< HEAD
+=======
+        ParseUser.logOut();
+
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
         //Verificar Usuario Logado
         verificarUsuarioLogado();
 
@@ -66,13 +71,19 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
 
+<<<<<<< HEAD
     //Vai para a tela de cadastro
+=======
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
     public void abrirCadastroUsuario(){
         Intent intent = new Intent(LoginActivity.this, CadastroActivity.class);
         startActivity( intent );
     }
 
+<<<<<<< HEAD
     //Testa se o usuario esta logado
+=======
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
     public void verificarUsuarioLogado(){
         if (ParseUser.getCurrentUser() != null){
             //Envia o usario para a tela principal
@@ -80,7 +91,10 @@ public class LoginActivity extends AppCompatActivity {
         }
     }
 
+<<<<<<< HEAD
     //Abre a tela inicial
+=======
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
     public void abrirTelaPrincipal(){
         Intent intent = new Intent(LoginActivity.this, MainActivity.class);
         startActivity( intent );

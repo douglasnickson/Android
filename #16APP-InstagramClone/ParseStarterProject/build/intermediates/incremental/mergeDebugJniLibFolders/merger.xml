@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Android\Aplicativos-Android\#16APP-InstagramClone\ParseStarterProject\src\debug\jniLibs"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/douglas-nickson/AndroidStudioProjects/Aplicativos-Android/#16APP-InstagramClone/ParseStarterProject/src/debug/jniLibs"/></dataSet></merger>
+>>>>>>> 80121c6d1510ff67c6e6ca9a9ecf88cf8cdd3552
